@@ -24,4 +24,4 @@ Der git pull -Befehl wird verwendet, um Inhalte aus einem Remote-Repository heru
 
 ## Git Push
 
-Der Befehl git push wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen. Per Push überträgst du Commits aus deinem lokalen Repository in ein Remote-Repository
+Der Befehl git push wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen. Per Push überträgst du Commits aus deinem lokalen Repository in ein Remote-Repository.
