@@ -22,9 +22,28 @@ Mit dem Befehl git commit erfasst du einen Snapshot der aktuell bereitgestellten
 
 ### Git branch
 
-In Git sind Branches Bestandteil deines alltäglichen Entwicklungsprozesses. Git-Branches sind quasi Verweise auf einen Snapshot deiner Änderungen. Wenn du ein neues Feature hinzufügen oder einen Fehler beheben möchtest, legst du einen neuen Branch an, der deine (großen oder kleinen) Änderungen enthält.
+In Git sind Branches Bestandteil deines alltäglichen Entwicklungsprozesses. Git-Branches sind quasi Verweise auf einen Snapshot deiner Änderungen. Wenn Verzeichnisses mit weiteren Details auf.
+
+### ls -a
+
+Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+
+### ls -lh
+
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf und formatiert die Dateigrößen in ein besser lesbares Format.
+du ein neues Feature hinzufügen oder einen Fehler beheben möchtest, legst du einen neuen Branch an, der deine (großen oder kleinen) Änderungen enthält.
 
 ### Git Pull
+
+Verzeichnisses mit weiteren Details auf.
+
+### ls -a
+
+Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+
+### ls -lh
+
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf und formatiert die Dateigrößen in ein besser lesbares Format.
 
 Der git pull -Befehl wird verwendet, um Inhalte aus einem Remote-Repository herunterzuladen und unverzüglich das lokale Repository zu aktualisieren, damit die Inhalte übereinstimmen.
 
@@ -38,7 +57,16 @@ Der Befehl git clone dient dazu, ein vorhandenes Repository als Ziel festzulegen
 
 ### git fetch, git merge, git pull
 
-Es gibt drei git-Befehle, um Änderungen aus dem entfernten Repository abzuholen und mit Ihren lokalen Dateien zu synchronisieren.
+Es gibt drei git-Befehle, um Ände Verzeichnisses mit weiteren Details auf.
+
+### ls -a
+
+Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+
+### ls -lh
+
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf und formatiert die Dateigrößen in ein besser lesbares Format.
+rungen aus dem entfernten Repository abzuholen und mit Ihren lokalen Dateien zu synchronisieren.
 
 - **fetch** holt Änderungen aus dem entfernten Repository, aber wendet diese nicht auf Ihren Code an.
 - **merge** synchronisiert per fetch abgeholte Änderungen mit dem Workspace.
@@ -67,6 +95,15 @@ Listet den Inhalt eines Verzeichnisses mit weiteren Details auf.
 ### ls -a
 
 Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+Verzeichnisses mit weiteren Details auf.
+
+### ls -a
+
+Zeigt auch die versteckten Dateien und Verzeichnisse an (versteckte Elemente beginnen mit einem Punkt, z.B.: .ssh).
+
+### ls -lh
+
+Listet den Inhalt eines Verzeichnisses mit weiteren Details auf und formatiert die Dateigrößen in ein besser lesbares Format.
 
 ### ls -lh
 
